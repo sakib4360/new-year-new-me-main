@@ -98,6 +98,85 @@
 .skill-description{
     font-weight: 500px;
     font-size: 20px;
-    margin-bottom: 130px;
+    margin-bottom: 110px;
     color: #737272;
+}
+
+
+
+.header2{
+    background-image: url('./images/watch.png');
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-bottom: 130px;
+    width: 1140px;
+    height: 300px;
+    
+}
+
+.header2-title{
+    margin-left: 64px;
+    padding-top: 50px;
+    margin-bottom: 24px;
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.btn-2{
+    margin-left: 64px;
+    background-color: white;
+    color: blue;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+/* future */
+
+.section-2{
+     display: flex;
+     background-color: black;
+     color: white;
+     padding-left: 230px;
+     padding-top: 130px;
+     padding-bottom: 130px;
+    
+}
+.heading2{
+    
+
+}
+.heading2-title{
+    margin-bottom: 16px;
+
+}
+.email{
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+.phone{
+    margin-bottom: 32px;
+}
+.subscribe{
+    margin-left: 331px;
+}
+.h3{
+    margin-bottom: 30px;
+}
+.from{
+    margin-bottom: 16px;
+    width: 325px;
+    height: 64px;
+    background-color: black;
+    color: white;
+}
+.btn-3{
+    background-color: blue;
+    color: white;
+    width: 170px;
+    height: 64px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
 }
