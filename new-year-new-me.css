@@ -5,7 +5,7 @@
 .header{
     background-color: antiquewhite;
     background-image: url('./images/banner/banner3.png');
-    width: 1600px;
+    width: 1700px;
     height: 808px;
 
 }
@@ -40,4 +40,64 @@
     border: 0;
     background-color: white;
     margin-left: 1210px;
+}
+
+
+
+/*my failures */
+
+.section{
+    background-color: white;
+    display: flex;
+    margin-bottom: 200px;
+    margin-left: 206px;
+    margin-top: 131px;
+    margin-right: 326px;
+
+    
+}
+
+.banner-2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 25px;
+    
+}
+.banner2-description{
+    margin-top: 300px;
+    margin-left: 70px;
+    color: #444343;
+    
+}
+
+.image{
+    height: 560px;
+    width: 725px;
+}
+/* my plans */
+.heading{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.planning{
+    text-align: center;
+    display: flex;
+    gap: 25px;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    font-weight: 500px;
+    font-size: 20px;
+    margin-bottom: 130px;
+    color: #737272;
 }
